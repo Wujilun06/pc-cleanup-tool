@@ -24,6 +24,9 @@ Thumbs.db
 # 隐私：本地工作日志（含本机路径/账号信息）
 .workbuddy/
 
+# 隐私：单一隐私文件（本约定下所有隐私集中于此；本仓库无运行密钥，故不会创建该文件）
+private_config.json
+
 # 构建产物（PyInstaller 编译结果，不入库）
 build/
 dist/
